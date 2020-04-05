@@ -10,7 +10,7 @@ If the number of rotations increase in an AVL Tree, searching time and insertion
 3. Do **LEVEL ORDER TRAVERSAL** of the formed tree, which is your answer.
 
 ### LOGIC for balances search tree using sorted array:
-  *find the middle element of the array and then set it as root.
-  *recursively call the left sub-tree and the right-sub tree.
+  * find the middle element of the array and then set it as root.
+  * recursively call the left sub-tree and the right-sub tree.
 ##  TIME COMPLEXITY OF THE SOLUTION IS - O(nlogn)
 output is shown in the output folder.
